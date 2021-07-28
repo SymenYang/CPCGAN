@@ -57,7 +57,7 @@ or run this command in DLNest's shell client:
 run -c <Absolute path to the root_config.json> -f <Absolute path to the freq_config.json>
 ```
 The configs,backup codes,checkpoints and training outputs will be restored in the `Saves/<A timestamp>` directory.  
-More details about DLNest and DLNest-based projects please refer to [DLNest](https://github.com/SymenYang/DLNest) (Only Chinease docs yet.)
+More details about DLNest and DLNest-based projects please refer to [DLNest](https://github.com/SymenYang/DLNest) (Only Chinease docs yet.)  
 **Step5** Tests  
 1. Test in FPD metric.
 ```bash
