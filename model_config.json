@@ -1,0 +1,17 @@
+{
+    "model_config" : {
+        "G_FEAT_0" : [96, 256, 256, 512, 512],
+        "G_FEAT_1" : [96, 256, 256, 256, 512, 512],
+        "D_FEAT_0" : [3,  64,  128, 256, 512, 1024],
+        "D_FEAT_1" : [3,  64,  128, 256, 512, 1024],
+        "K" : 32,
+        "lambdaGP" : 10,
+        "lambdaD" : 0.5,
+        "lambdaG" : 0.5,
+        "lr" : 0.0001,
+        "D_iter" : 3,
+        "need_FPD" : true,
+        "PointNet_weights" : "../../FPD_data/cls_model_39.pth",
+        "FPD_path" : "../../FPD_data/statistics_plane_train.npz"
+    }
+}

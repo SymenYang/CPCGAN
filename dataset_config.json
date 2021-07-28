@@ -1,0 +1,10 @@
+{
+    "dataset_config" : {
+        "full_pointcloud_path" : "./Datas/train_data",
+        "pointcloud_sample_path" : "./Datas/samples",
+        "semantic_avg_sampled_pointcloud_path" : "./Datas/avg",
+        "semantic_label_path" : "./Datas/train_label",
+        "category_information_path" : "synsetoffset2category.txt",
+        "class_choice" : ["Airplane"]
+    }
+}

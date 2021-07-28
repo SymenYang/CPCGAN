@@ -1,0 +1,27 @@
+{
+    "save_root":"ROOTPATH/Saves",
+    "model_name":"CPCGAN",
+    "dataset_name":"CPCGAN_Datas",
+    "life_cycle_name":"LifeCycle",
+    "checkpoint_args":{
+        "max_ckpt_in_slow_track":0,
+        "dilation_in_slow_track":100,
+        "max_ckpt_in_fast_track":1,
+        "max_ckpt_in_consistent_track":1
+    },
+    "root_file_path":"ROOTPATH",
+    "model_file_path":"./Model/CPCGAN.py",
+    "dataset_file_path":"./Dataset/Dataset.py",
+    "life_cycle_file_path":"./LifeCycle.py",
+    "other_file_paths":[
+        "./Model/Subnets.py",
+        "./Model/Gradient_penalty.py",
+        "./Model/GAN_network.py",
+        "./Model/FPD"
+    ],
+    "child_jsons":[
+        "./common_config.json",
+        "./model_config.json",
+        "./dataset_config.json"
+    ]
+}

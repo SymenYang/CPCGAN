@@ -1,0 +1,4 @@
+{
+    "epochs" : 2000,
+    "batch_size" : 128
+}

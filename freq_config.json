@@ -1,0 +1,8 @@
+{
+    "dataset_config" : {
+        "class_choice" : ["Airplane"]
+    },
+    "model_config" : {
+        "FPD_path" : "../../FPD_data/statistics_plane_train.npz"
+    }
+}
