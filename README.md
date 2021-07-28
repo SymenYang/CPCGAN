@@ -2,7 +2,7 @@
 
 <img src="ReadmeSrc/Intro.png" alt="Intro" width="50%"/><img src="ReadmeSrc/Model.png" alt="Model" width="50%"/>
 
-[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[Code](https://github.com/SymenYang/CPCGAN)][[Poster](https://github.com/SymenYang/CPCGAN/blob/main/ReadmeSrc/Poster.pdf)][[Video](https://www.bilibili.com/video/BV11y4y1j7u5/)]  
+[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[Code](https://github.com/SymenYang/CPCGAN)] [[Poster](https://github.com/SymenYang/CPCGAN/blob/main/ReadmeSrc/Poster.pdf)] [[Video](https://www.bilibili.com/video/BV11y4y1j7u5/)]  
 The official code repository for our AAAI 2021 paper *CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating*.
 ## System requirements
 Our model has been tested with PyTorch 1.7.0 and CUDA 11.0
