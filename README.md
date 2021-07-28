@@ -43,7 +43,7 @@ bash BeforeTrain.sh
    |--root_config.json
    |--LifeCycle.py
 ```
-**Step3** Preprocess the datas. This may take 1 or 2 hours due to the K-Means calculations.
+**Step3** Preprocess the datas. This may takes 1 or 2 hours due to the K-Means calculations.
 ```bash
 cd DataPreprocessing
 bash DataPreprocessing.sh
