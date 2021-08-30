@@ -89,9 +89,15 @@ runExp gen_from_spc_and_z
 
 ## Citation
 ```
-@inproceedings{yang2021cpcgan,
-  title={CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating},
-  author={Yang, Ximing and Wu, Yuan and Zhang, Kaiyi and Jin, Cheng},
-  year={2021}
+@article{Yang_Wu_Zhang_Jin_2021, 
+   title={CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating}, 
+   volume={35}, 
+   url={https://ojs.aaai.org/index.php/AAAI/article/view/16425}, 
+   number={4}, 
+   journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+   author={Yang, Ximing and Wu, Yuan and Zhang, Kaiyi and Jin, Cheng}, 
+   year={2021}, 
+   month={May}, 
+   pages={3154-3162}
 }
 ```
