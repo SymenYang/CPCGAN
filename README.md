@@ -1,4 +1,4 @@
-# CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating'
+# CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating
 
 <img src="ReadmeSrc/Intro.png" alt="Intro" width="50%"/><img src="ReadmeSrc/Model.png" alt="Model" width="50%"/>
 
